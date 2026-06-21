@@ -32,9 +32,8 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 [![Clone Repo](https://img.shields.io/badge/GitHub-Clone-green?style=for-the-badge&logo=git&logoColor=white)](https://github.com/KaladinDMP/VR-CyberDeck/releases/tag/v1.3.2)
 
 
-[![DOWNLOAD ROOKIE](https://img.shields.io/badge/DOWNLOAD-VR-CYBERDECK-blue)](https://github.com/KaladinDMP/VR-CyberDeck/releases/tag/v1.3.2)
+[![DOWNLOAD VR CYBERDECK](https://img.shields.io/badge/DOWNLOAD-VR-CYBERDECK-blue)](https://github.com/KaladinDMP/VR-CyberDeck/releases/tag/v1.3.2)
 
-[![DOWNLOAD JSON](https://img.shields.io/badge/DOWNLOAD-JSON-blue)](https://github.com/Crazy-Scamp/Rookie-Setup-Guide/releases/download/JSON/public.json)
 
 
 
