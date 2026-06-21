@@ -29,7 +29,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 ## 📥 DOWNLOAD FILES
 
-[![DOWNLOAD ROOKIE](https://img.shields.io/badge/DOWNLOAD-ROOKIE-blue)](https://github.com/nerdunit/androidsideloader/releases/download/v3.4/AndroidSideloader.exe)
+[![DOWNLOAD ROOKIE](https://img.shields.io/badge/DOWNLOAD-VR-CYBERDECK-blue)](https://github.com/KaladinDMP/VR-CyberDeck/releases/tag/v1.3.2)
 
 [![DOWNLOAD JSON](https://img.shields.io/badge/DOWNLOAD-JSON-blue)](https://github.com/Crazy-Scamp/Rookie-Setup-Guide/releases/download/JSON/public.json)
 
