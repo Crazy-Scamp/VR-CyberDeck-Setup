@@ -37,13 +37,8 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 
 
+[![CrazyScamp](https://img.shields.io/static/v1?label=DOWNLOAD&message=VRCyberdeck&labelColor=000000&color=00e5ff&logo=github&logoColor=000000&style=for-the-badge)](https://github.com/KaladinDMP/VR-CyberDeck/releases/tag/v1.3.2)
 
-
-
-
-
-
-[![CrazyScamp GitHub](https://img.shields.io/badge/DOWNLOAD-VRCYBERDECK-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/KaladinDMP/VR-CyberDeck/releWNes/tag/v1.3.2)
 
 
 
