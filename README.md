@@ -29,8 +29,8 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 ## 📥 DOWNLOAD FILES
 
+[![CyberDeck](https://img.shields.io/static/v1?label=VR&message=CYBERDECK&labelColor=000000&color=00e5ff&logo=github&logoColor=000000&style=for-the-badge)](https://github.com/KaladinDMP/VR-CyberDeck)
 
-[![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](https://github.com/KaladinDMP/VR-CyberDeck/releWNes/tag/v1.3.2)
 
 
 (https://github.com/KaladinDMP/VR-CyberDeck/releWNes/tag/v1.3.2)
