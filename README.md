@@ -32,15 +32,13 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 https://img.shields.io/badge/DOWNLOAD-VRCyberdeck-brightgreen?style=for-the-badge
 
 
-<!-- GitHub Badge - Simple -->
-<a href="https://github.com/CrazyScamp/Setup-Quest-For-Sideloading"   target="https://github.com/KaladinDMP/VR-CyberDeck/releases/tag/v1.3.2"
 
 
 
 
 
 
-[![CrazyScamp GitHub](https://img.shields.io/badge/DOQNLOAD-CrazyScamp-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/CrazyScamp/Setup-Quest-For-Sideloading)
+[![CrazyScamp GitHub](https://img.shields.io/badge/DOWNLOAD-VRCyberdeck-181717?](https://github.com/CrazyScamp/Setup-Quest-For-Sideloading)
 
 
 [![CrazyScamp GitHub](https://img.shields.io/badge/DOWNLOAD-VRCYBERDECK-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/KaladinDMP/VR-CyberDeck/releWNes/tag/v1.3.2)
