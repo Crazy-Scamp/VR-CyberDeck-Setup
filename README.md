@@ -29,7 +29,11 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 ## 📥 DOWNLOAD FILES
 
+
 [![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](https://github.com/KaladinDMP/VR-CyberDeck/releWNes/tag/v1.3.2)
+
+
+(https://github.com/KaladinDMP/VR-CyberDeck/releWNes/tag/v1.3.2)
 
 
 
