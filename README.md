@@ -24,20 +24,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 ---
 
-# ⚠️ UNKNOWN SOURCES
-- **Where do I find my Games?**
-
-<!-- Green style -->
-[![Setup For Sideloading](https://img.shields.io/badge/LOCATING%20UNKNOWN-SOURCES-green?style=flat-square)](https://github.com/Crazy-Scamp/Finding-Unknown-Sources)
-   
----
-
-# ⚠️ NOTES
-- Rookie uses its own independent database
-- Future updates: Replace `public.json` with the new version
-
-
-# INSTALLING
+## 🖥 INSTALLING
 
 1. Install the build for your OS
 2. Plug in your Quest via USB (data-capable cable)
@@ -46,3 +33,18 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 
 ## That's it. The bundled server config means there's nothing to configure on first run.
+
+---
+
+# ⚠️ UNKNOWN SOURCES
+- **Where do I find my Games?**
+
+<!-- Green style -->
+[![Setup For Sideloading](https://img.shields.io/badge/LOCATING%20UNKNOWN-SOURCES-green?style=flat-square)](https://github.com/Crazy-Scamp/Finding-Unknown-Sources)
+   
+---
+
+
+
+
+
