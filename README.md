@@ -45,13 +45,13 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 **If you recieve this error one of 2 things need to be done!**
 
-- > **Follow the Link `Enabling DNS-over-HTTPS`on VR CyberDeck or**
+- > **Follow the Link `Enabling DNS-over-HTTPS`on VR CyberDeck or click the below link**
   
 - > [![VR CyberDeck](https://img.shields.io/badge/CLICK-HERE-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://github.com/Curious4Tech/DNS-over-HTTPS-Set-Up#setting-up-doh-on-windows-11)
   
 - > **Free `VPN` to use**
   
-  [![VR CyberDeck](https://img.shields.io/badge/ProtonVPN-Download-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://protonvpn.com/free-vpn?srsltid=AfmBOoooTAhCOj6S4jBst4twrWfUbuqmssgFSI5gQ-TY-6cRpECxuto3)
+- >  [![VR CyberDeck](https://img.shields.io/badge/ProtonVPN-Download-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://protonvpn.com/free-vpn?srsltid=AfmBOoooTAhCOj6S4jBst4twrWfUbuqmssgFSI5gQ-TY-6cRpECxuto3)
 
 ---
 
