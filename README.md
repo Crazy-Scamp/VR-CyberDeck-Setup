@@ -61,9 +61,16 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 <!-- Green style -->
 [![Setup For Sideloading](https://img.shields.io/badge/LOCATING%20UNKNOWN-SOURCES-green?style=flat-square)](https://github.com/Crazy-Scamp/Finding-Unknown-Sources)
    
+
 ---
 
+# 📶 WiFi with VR Cyberdeck
+**Want to connect to VR CyberDeck using WiFi?** Click Below 
 
+<!-- Green style -->
+[![Setup For Sideloading](https://img.shields.io/badge/WiFi%2ON-VRCyberDeck-blue?style=flat-square)]( https://github.com/Crazy-Scamp/WiFi-Connect-on-VR-CyberDeck)
+   
+---
 
 
 
