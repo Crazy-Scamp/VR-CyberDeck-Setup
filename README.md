@@ -9,7 +9,7 @@ A Step by Step Guide To Installing VR CyberDeck
 VR CyberDeck is a cross-platform desktop deck for managing, sideloading, and uploading content to Meta Quest devices. It plugs into a community-run game library.
 Downloads and Installs any APK you choose.
 
-- > Built By: DMP
+- > **Built By: DMP**
 - > [![VR CyberDeck](https://img.shields.io/badge/GitHub-Page-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://github.com/KaladinDMP/VR-CyberDeck)
   > 
 ---
@@ -48,7 +48,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 - > Follow the Link `Enabling DNS-over-HTTPS`on VR CyberDeck
   >
 - > Install a `VPN`
-- > > [![VR CyberDeck](https://img.shields.io/badge/ProtonVPN-Download-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://protonvpn.com/free-vpn?srsltid=AfmBOoooTAhCOj6S4jBst4twrWfUbuqmssgFSI5gQ-TY-6cRpECxuto3)  **(FREE)**
+  [![VR CyberDeck](https://img.shields.io/badge/ProtonVPN-Download-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://protonvpn.com/free-vpn?srsltid=AfmBOoooTAhCOj6S4jBst4twrWfUbuqmssgFSI5gQ-TY-6cRpECxuto3)  **(FREE)**
 
 ---
 
