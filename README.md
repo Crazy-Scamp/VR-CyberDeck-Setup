@@ -1,3 +1,4 @@
+<img width="225" height="225" alt="logo vr cyberdeck" src="https://github.com/user-attachments/assets/137fceda-def4-4311-a797-0b93eefc9844" />
 # VR CyberDeck Setup
 A Step by Step Guide To Installing VR CyberDeck 
 
