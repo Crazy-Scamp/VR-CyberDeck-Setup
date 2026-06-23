@@ -43,9 +43,9 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 ## ❌️ Game List Sync Failed Error
 <img width="1365" height="455" alt="error 2" src="https://github.com/user-attachments/assets/8869deeb-0415-44d2-8b2c-f4e30b1c564a" />
 
-*If you recieve this error one of 2 things need to be done!*
+**If you recieve this error one of 2 things need to be done!**
 
-- > Follow the Link `Enabling DNS-over-HTTPS`on VR CyberDeck
+- > Follow the Link `Enabling DNS-over-HTTPS`on VR CyberDeck or [![VR CyberDeck](https://img.shields.io/badge/CLICK-HERE-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://github.com/Curious4Tech/DNS-over-HTTPS-Set-Up#setting-up-doh-on-windows-11)
   >
 - > Install a `VPN`
   [![VR CyberDeck](https://img.shields.io/badge/ProtonVPN-Download-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://protonvpn.com/free-vpn?srsltid=AfmBOoooTAhCOj6S4jBst4twrWfUbuqmssgFSI5gQ-TY-6cRpECxuto3)  **(FREE)**
