@@ -47,7 +47,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 - > Follow the Link `Enabling DNS-over-HTTPS`on VR CyberDeck
   >
-  > Install a `VPN`
+- > Install a `VPN`
 
 ---
 
