@@ -36,8 +36,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 3. Allow USB Debugging on the headset
 4. Browse the library and hit download
 
-
-## That's it. The bundled server config means there's nothing to configure on first run.
+**That's it. The bundled server config means there's nothing to configure on first run**
 
 ---
 
