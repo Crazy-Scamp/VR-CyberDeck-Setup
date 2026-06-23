@@ -41,7 +41,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 ---
 
-# ❌️ Game List Sync Failed Error
+## ❌️ Game List Sync Failed Error
 <img width="1365" height="455" alt="error 2" src="https://github.com/user-attachments/assets/8869deeb-0415-44d2-8b2c-f4e30b1c564a" />
 
 
