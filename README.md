@@ -8,7 +8,7 @@ VR CyberDeck is a cross-platform desktop deck for managing, sideloading, and upl
 Downloads and Installs any APK you choose.
 
 - > Built By: DMP
-  > [![VR CyberDeck](https://img.shields.io/badge/GitHub-Page-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://github.com/KaladinDMP/VR-CyberDeck)
+- > [![VR CyberDeck](https://img.shields.io/badge/GitHub-Page-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://github.com/KaladinDMP/VR-CyberDeck)
   > 
 ---
 
