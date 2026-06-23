@@ -41,6 +41,14 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 ---
 
+# Game List Sync Failed Error
+<img width="1065" height="155" alt="error 2" src="https://github.com/user-attachments/assets/3e49ba0c-7355-4255-9638-b072d6d4e339" />
+
+If you recieve this error one of 2 things need to be done!
+
+
+---
+
 # ⚠️ UNKNOWN SOURCES
 - **Where do I find my Games?**
 
