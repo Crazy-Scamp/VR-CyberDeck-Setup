@@ -70,8 +70,3 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 [![VR CyberDeck](https://img.shields.io/badge/CLICK-HERE-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://github.com/Crazy-Scamp/WiFi-Connect-on-VR-CyberDeck)
   
 ---
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Crazy-Scamp.VISTORS-badge&left_color=blue&right_color=white)
-
----
-
