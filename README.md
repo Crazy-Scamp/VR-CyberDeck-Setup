@@ -53,7 +53,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
   >
   > [![Get](https://img.shields.io/badge/Get-ProtonVPN-000000?style=for-the-badge&labelColor=007ec6)](https://protonvpn.com/free-vpn?srsltid=AfmBOoohIWuiz0MPqyuL-F8J8_v8GT-4KSMB8ZXmQA28gM3ZXPUc7L6C)
 
-  [![Get](https://img.shields.io/badge/Get-CloudFlare-000000?style=for-the-badge&labelColor=007ec6)](https://one.one.one.one/)
+  > [![Get](https://img.shields.io/badge/Get-CloudFlare-000000?style=for-the-badge&labelColor=007ec6)](https://one.one.one.one/)
 
 ---
 
