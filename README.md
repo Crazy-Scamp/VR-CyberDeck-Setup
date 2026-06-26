@@ -51,7 +51,9 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
   
   > - **Free `VPN` to use**
   >
-  > [![VR CyberDeck](https://img.shields.io/badge/ProtonVPN-Download-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://protonvpn.com/free-vpn?srsltid=AfmBOoooTAhCOj6S4jBst4twrWfUbuqmssgFSI5gQ-TY-6cRpECxuto3)
+  > [![Get](https://img.shields.io/badge/Get-ProtonVPN-000000?style=for-the-badge&labelColor=007ec6)](https://protonvpn.com/free-vpn?srsltid=AfmBOoohIWuiz0MPqyuL-F8J8_v8GT-4KSMB8ZXmQA28gM3ZXPUc7L6C)
+
+  [![Get](https://img.shields.io/badge/Get-CloudFlare-000000?style=for-the-badge&labelColor=007ec6)](https://one.one.one.one/)
 
 ---
 
