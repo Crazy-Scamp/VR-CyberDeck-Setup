@@ -49,7 +49,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
   >
   > [![VR CyberDeck](https://img.shields.io/badge/CLICK-HERE-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://github.com/Curious4Tech/DNS-over-HTTPS-Set-Up#setting-up-doh-on-windows-11)
   
-  > - **Free `VPN` to use**
+  > - **Download a Free `VPN` to use**
   >
   > [![Get](https://img.shields.io/badge/Get-ProtonVPN-000000?style=for-the-badge&labelColor=007ec6)](https://protonvpn.com/free-vpn?srsltid=AfmBOoohIWuiz0MPqyuL-F8J8_v8GT-4KSMB8ZXmQA28gM3ZXPUc7L6C)
 
