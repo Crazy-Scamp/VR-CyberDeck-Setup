@@ -74,4 +74,4 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
   
 ---
 
-<a href="https://hits.sh/github.com/Crazy-Scamp/VR-CyberDeck-Setup/"><img alt="Hits" src="https://hits.sh/github.com/Crazy-Scamp/VR-CyberDeck-Setup.svg?style=flat-square&label=Total%20Vistors&logo=Github"/></a>
+<a href="https://hits.sh/github.com/Crazy-Scamp/VR-CyberDeck-Setup/"><img alt="Hits" src="https://hits.sh/github.com/Crazy-Scamp/VR-CyberDeck-Setup.svg?style=flat-square&label=Total%20Visitors&extraCount=2748"/></a>
