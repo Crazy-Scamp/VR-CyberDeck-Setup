@@ -22,7 +22,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 ---
 
-## ⏬️ DOWNLOAD ❌️ UNAVAILABLE AT THE MOMENT ❌️
+## ⏬️ ❌️ DOWNLOAD UNAVAILABLE AT THE MOMENT ❌️
 
 **`(Latest Version 1.4.7)`**
 
