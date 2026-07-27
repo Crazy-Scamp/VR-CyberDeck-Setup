@@ -24,9 +24,9 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 ## ⏬️ DOWNLOAD
 
-**`(Latest Version 1.5.0)`**
+**`(Latest Version 1.5.1)`**
 
-[![CyberDeck](https://img.shields.io/static/v1?label=DOWNLOAD&message=CYBERDECK&labelColor=000000&color=00e5ff&logo=github&logoColor=000000&style=for-the-badge)](https://github.com/DeliciousMeatPop/VRCD/releases/tag/v1.5.0)
+[![CyberDeck](https://img.shields.io/static/v1?label=DOWNLOAD&message=CYBERDECK&labelColor=000000&color=00e5ff&logo=github&logoColor=000000&style=for-the-badge)](https://github.com/DeliciousMeatPop/VRCD/releases/tag/v1.5.1)
 
 ---
 
