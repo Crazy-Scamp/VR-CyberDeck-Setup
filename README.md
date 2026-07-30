@@ -38,6 +38,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 4. Browse the library and hit download
 
 **[ LIBRARY ] — optional, only when you add a server**
+
 Add your own server under Manage Remotes (a server config or an rclone config) to unlock a browsable library
 
 ---
