@@ -24,9 +24,9 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 ## ⏬️ DOWNLOAD
 
-**`(Latest Version 1.5.1)`**
+**`(Latest Version 1.6.0)`**
 
-[![CyberDeck](https://img.shields.io/static/v1?label=DOWNLOAD&message=CYBERDECK&labelColor=000000&color=00e5ff&logo=github&logoColor=000000&style=for-the-badge)](https://github.com/DeliciousMeatPop/VRCD/releases/tag/v1.5.1)
+[![CyberDeck](https://img.shields.io/static/v1?label=DOWNLOAD&message=CYBERDECK&labelColor=000000&color=00e5ff&logo=github&logoColor=000000&style=for-the-badge)](https://github.com/DeliciousMeatPop/VRCD/releases/tag/v1.6.0)
 
 ---
 
@@ -37,7 +37,8 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 3. Allow USB Debugging on the headset
 4. Browse the library and hit download
 
-**That's it. The bundled server config means there's nothing to configure on first run**
+**[ LIBRARY ] — optional, only when you add a server**
+Add your own server under Manage Remotes (a server config or an rclone config) to unlock a browsable library
 
 ---
 
