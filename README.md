@@ -38,7 +38,8 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 **[ LIBRARY ] — optional, only when you add a server**
 
-Add your own server under Manage Remotes (a server config or an rclone config) to unlock a browsable library
+- > Add your own server under Manage Remotes (a server config or an rclone config) to unlock a browsable library
+- > Want a browsable library instead? Add your own server — a server config or your own rclone config — under Manage Remotes.<a href="https://streamable.com/v0ljxx">Tutorial Link For Server Setup</a>
 
 ---
 
