@@ -61,7 +61,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 ---
 
-# ⚠️ UNKNOWN SOURCES
+## ⚠️ UNKNOWN SOURCES
 - **Where do I find my Games?**
 
 <!-- Green style -->
@@ -70,7 +70,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 ---
 
-# 📶 WiFi with VR Cyberdeck
+## 📶 WiFi with VR Cyberdeck
 **Want to connect to VR CyberDeck using WiFi?**
 
 [![VR CyberDeck](https://img.shields.io/badge/CLICK-HERE-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://github.com/Crazy-Scamp/WiFi-Connect-on-VR-CyberDeck)
