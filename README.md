@@ -6,7 +6,7 @@ A Step by Step Guide To Installing VR CyberDeck
 ---
 
 ## ❓️ What is VR CyberDeck 
-VR CyberDeck is a cross-platform desktop deck for sideloading content to Android and Meta Quest devices, wrapped in a neon terminal aesthetic that doesn't feel like a 2014 sideloader. Use it as a pure sideloader out of the box, or add your own server for a browsable library.
+VR CyberDeck is a cross-platform desktop deck for sideloading content to Android devices, wrapped in a neon terminal aesthetic that doesn't feel like a 2014 sideloader. Use it as a pure sideloader out of the box, or add your own server for a browsable library.
 
 - > **Built By: DMP**
 - > [![VR CyberDeck](https://img.shields.io/badge/GitHub-Page-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://github.com/DeliciousMeatPop/VRCD)
