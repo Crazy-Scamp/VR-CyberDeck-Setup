@@ -34,7 +34,7 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 1. Install the build for your OS
 2. Plug in your Quest via USB (data-capable cable)
 3. Allow USB Debugging on the headset
-4. Browse the library and hit download
+4. Browse a Library and hit download
 
 **[ LIBRARY ] — optional, only when you add a server**
 
