@@ -78,3 +78,12 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 ---
 
 <a href="https://hits.sh/github.com/Crazy-Scamp/VR-CyberDeck-Setup/"><img alt="Hits" src="https://hits.sh/github.com/Crazy-Scamp/VR-CyberDeck-Setup.svg?style=flat-square&label=Total%20Visitors&extraCount=2748"/></a>
+
+---
+
+## ⚠️ Having Issues
+**Send You Logs**
+
+[![Setup For Sideloading](https://img.shields.io/badge/CLICK%20HERE-red?style=flat-square)](https://github.com/DeliciousMeatPop/VRCD/wiki/Have-an-issue%3F-SEND-YOUR-DAMN-LOGS)
+
+---
