@@ -17,15 +17,15 @@ VR CyberDeck is a cross-platform desktop deck for sideloading content to Android
 If you haven't already, you need to get your headset and PC ready for sideloading.
 
 <!-- Red style -->
-[![Setup For Sideloading](https://img.shields.io/badge/Setup%20For-Sideloading-red?style=flat-square)](https://github.com/Crazy-Scamp/Setup-For-Sideloading)
+- >[![Setup For Sideloading](https://img.shields.io/badge/Setup%20For-Sideloading-red?style=flat-square)](https://github.com/Crazy-Scamp/Setup-For-Sideloading)
 
 ---
 
 ## ⏬️ DOWNLOAD
 
-**`Latest Version`** 👇
+- >**`Latest Version`** 👇
 
-[![CyberDeck](https://img.shields.io/static/v1?label=DOWNLOAD&message=CYBERDECK&labelColor=000000&color=00e5ff&logo=github&logoColor=000000&style=for-the-badge)](https://github.com/DeliciousMeatPop/VRCD/releases)
+- >[![CyberDeck](https://img.shields.io/static/v1?label=DOWNLOAD&message=CYBERDECK&labelColor=000000&color=00e5ff&logo=github&logoColor=000000&style=for-the-badge)](https://github.com/DeliciousMeatPop/VRCD/releases)
 
 ---
 
@@ -59,15 +59,15 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 - **Where do I find my Games?**
 
 <!-- Green style -->
-[![Setup For Sideloading](https://img.shields.io/badge/LOCATING%20UNKNOWN-SOURCES-green?style=flat-square)](https://github.com/Crazy-Scamp/Finding-Unknown-Sources)
+- >[![Setup For Sideloading](https://img.shields.io/badge/LOCATING%20UNKNOWN-SOURCES-green?style=flat-square)](https://github.com/Crazy-Scamp/Finding-Unknown-Sources)
    
 
 ---
 
 ## 📶 WiFi with VR Cyberdeck
-**Want to connect to VR CyberDeck using WiFi?**
+- **Want to connect to VR CyberDeck using WiFi?**
 
-[![VR CyberDeck](https://img.shields.io/badge/CLICK-HERE-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://github.com/Crazy-Scamp/WiFi-Connect-on-VR-CyberDeck)
+- >[![VR CyberDeck](https://img.shields.io/badge/CLICK-HERE-00e5ff?style=for-the-badge&logo=github&logoColor=000&labelColor=001)](https://github.com/Crazy-Scamp/WiFi-Connect-on-VR-CyberDeck)
   
 ---
 
