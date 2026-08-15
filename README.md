@@ -40,9 +40,9 @@ If you haven't already, you need to get your headset and PC ready for sideloadin
 
 - > Add your own server under Manage Remotes
 - > Want a browsable library instead?
-  > ▶️ Video Tutorial For Server Setup
-  > 
-- > [![VR CyberDeck Tutorial](https://imagizer.imageshack.com/v2/150x100q70/921/uVMSte.png)](https://streamable.com/v0ljxx)
+  
+- > ▶️ Video Tutorial For Server Setup
+[![VR CyberDeck Tutorial](https://imagizer.imageshack.com/v2/150x100q70/921/uVMSte.png)](https://streamable.com/v0ljxx)
 
 ---
 
